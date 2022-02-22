@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Feed sobre noticias de todo tipo</title>
+    <id>urn:uuid:489e3980-6e09-11eb-9439-0242ac130002</id>
+    <updated>2022-02-22T16:30:02Z</updated>
+    <link href="https://lm.bules.eu/"/>
+    <subtitle>Canal de noticias de todo tipo.</subtitle>
+    <category term="Noticias"/>
+    <author>
+        <name>Enrique Guzman Mesa</name>
+        <email>a21gumeen@iesgrancapitan.org</email>
+        <uri>https://github.com/Kikee11</uri>
+    </author>
+    <entry>
+        <title>Noticias Deportes</title>
+        <id>urn:uuid:0ccbc976-6e0a-11eb-9439-0242ac130002</id>
+        <updated>2022-02-22T16:30:02Z</updated>
+        <link href="https://marca.com"/>
+        <rights type="html"> © 2022 Enrique Guzman Mesa</rights>
+        <summary>Aqui encontraréis noticias de todos los deportes.</summary>
+        <author>
+            <name>Marca</name>
+            <email>marca@outlook.com</email>
+        </author>
+        <category term="Deportes"/>
+    </entry>
+    <entry>
+        <title>Noticias videojuegos</title>
+        <id>urn:uuid:0ccbc976-6e0a-11eb-9439-0242ac130002</id>
+        <updated>2022-02-22T16:30:02Z</updated>
+        <rights type="html"> © 2022 Enrique Guzmán Mesa</rights>
+        <summary>Los mejores videojuegos de cada año aquí y ahora.</summary>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <h1>Videojuegos</h1>
+                <ul>
+                    <li>2019 --> Sekiro: Shadows Die Twice</li>
+                    <li>2020 --> The Las Of Us Part II</li>
+                    <li>2021 --> It Takes Two</li>
+                </ul>
+            </div>
+        </content>
+        <author>
+            <name>As</name>
+            <email>as@hotmail.es</email>
+        </author>
+        <category term="Videojuegos"/>
+    </entry>
+    <entry>
+        <title>Manual Skateboarding</title>
+        <id>urn:uuid:5508c78a-6e09-11eb-9439-0242ac130002</id>
+        <updated>2022-02-22T16:30:02Z</updated>
+        <link href="https://nanopdf.com/queue/manual-tecnico-cientifico-de-skateboarding_pdf?queue_id=-1x=1645485747z=ODguMTUuMjUyLjUw"/>
+        <link rel="enclosure" xml:lang="es-es" title="Partes Skate" type="application/pdf" hreflang="es-es" href="./nanopdf.com_manual-tecnico-cientifico-de-skateboarding.pdf"/>
+        <rights type="html"> © 2022 Enrique Guzman Mes</rights>
+        <summary>Aqui encontraremos un manual para un skate</summary>
+        <author>
+            <name>Nanopdf</name>
+            <email>nanopdf@gmail.com</email>
+        </author>
+        <category term="Skateboarding"/>
+    </entry>
+    <entry>
+        <title>La canción más famosa del Dj Sub Focus</title>
+        <id>urn:uuid:f5e3023c-6e0a-11eb-9439-0242ac130002</id>
+        <updated>2022-02-22T16:30:02Z</updated>
+        <link href="https://www.youtube.com/watch?v=hRgcgcTP7nM"/>
+        <link rel="enclosure" type="audio/mpeg" title="MP4" href="https://drive.google.com/file/d/1UfLLS2lv47aj6XrBjbFQLmq3ZMoDD_i_/view?usp=sharing" length="127556438"/>
+        <rights type="html"> © 2022 Enrique Guzmán Mesa</rights>
+        <summary> La canción con más reproducciones del Dj SubFocus</summary>
+        <author>
+            <name>Sub Focus</name>
+            <email>SubFocus_Official@gmail.com</email>
+        </author>
+        <category term="musica"/>
+    </entry>
+</feed>
